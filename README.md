@@ -1,11 +1,7 @@
-# projekt-p
+# Skrypt do monitorowania smogu w okolicach miasta Rybnik (Python)
 
-Skrypt do monitorowania smogu w okolicach miasta Rybnik (Python)
-
-Opis:
-	Airly [1] to firma, budująca sieć sensorów powietrza dla miast i gmin. 
-	Umożliwia ona monitorowanie stanu powietrza w czasie rzeczywistym za pomocą mapy online oraz udostępnia api, które pozwala na ściągnięcie dokładnych danych dotyczących interesujących nas regionów.
-	Rybnik to jedno z najbardziej zanieczyszczonych miast w Polsce, jesienią zeszłego roku, w każdej dzielnicy zostały zainstalowane sensory powietrza, razem jest ich 27.
+Airly [1] to firma, budująca sieć sensorów powietrza dla miast i gmin. Umożliwia ona monitorowanie stanu powietrza w czasie rzeczywistym za pomocą mapy online oraz udostępnia api, które pozwala na ściągnięcie dokładnych danych dotyczących interesujących nas regionów.
+Rybnik to jedno z najbardziej zanieczyszczonych miast w Polsce, jesienią zeszłego roku, w każdej dzielnicy zostały zainstalowane sensory powietrza, razem jest ich 27.
 	
 	Celem skyptu jest:
 	 1) pobieranie codzienne danych dotyczących jakości powietrze w każdej z dzielnic 
