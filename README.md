@@ -14,10 +14,7 @@ Rybnik to jedno z najbardziej zanieczyszczonych miast w Polsce, jesienią zeszł
 2. Następne kroki to processing ściągniętych danych do wygodnej i przejrzystej formy. Jego wynikiem będą tabele z danymi, wykresy i ostatecznie mapa z zanieczyczeniem w każdej dzielnicy.
 Wykorzystane zostaną przede wszystkim biblioteki Pandas, Matplotlib, PySAL (lub inna biblioteka wspierająca tworzenie map)
 
-3. Następnie dane zostaną wrzucone na stworzone wcześniej strony w portalach społecznościowych, (np. Facebook, Tweeter) przy wykorzystaniu odpowiednich api [3]
-
-4. (Opcjonalny) Krok opcjonalny przewiduje wykorzystanie metod uczenia maszynowego do prognozowania zanieczyszczenia powietrza na podstawie zebranych danych historycznych
-
+3. Następnie dane zostaną wrzucone na stworzone wcześniej strony w portalach społecznościowych, (np. Facebook, Tweeter) przy wykorzystaniu odpowiednich api [3] https://www.facebook.com/powietrzewrybniku/
 
 
 [1] https://airly.eu/en/
